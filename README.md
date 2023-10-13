@@ -8,6 +8,18 @@
 - 🌱 I’m currently focused on learning and improving my knowledge in the following areas:
   - Building and fine-tuning ML models
   - Transitioning from Google Colab to VScode and Github for more control and flexibility in my projects.
+ 
+  ## Tech Stack
+- 🖥️ I have experience with the following technologies and languages:
+  - Python, R and SPSS. 
+  - Machine Learning libraries such as numpy, pandas, scipy and scikit-learn
+  - Data visualization tools like Matplotlib, Seaborn, Ggplot2, Plotly Lattice
+  - Git and GitHub for version control
+  - Visual Studio Code for coding and project management
+  - Survey collection software such as Qualtrics, Google Forms, SurveyMonkey, Snap, Voxco, Lucid and Cint.
+
+- 🌱 I’m continuously exploring and expanding my skills in these areas, and I'm open to discussing and collaborating on projects related to these technologies.
+
 
 ## Interests
 - 👀 I’m interested in simplifying and improving my daily life through automation and leveraging data to gain valuable insights.
