@@ -1,6 +1,6 @@
 # Gretha's Machine Learning Repository
 
-👋 Hi, I’m Gretha, currently pursuing a Machine Learning Analyst Diploma. Welcome to my GitHub repository! Here, I share my journey into the world of machine learning and data analysis.
+👋 Hi, I’m Gretha, I have a background in Psychological Research and currently pursuing a Machine Learning Analyst Diploma. Welcome to my GitHub repository! Here, I share my journey into the world of machine learning and data analysis.
 
 ## About Me
 - 💁‍♀️ I'm Gretha, a passionate learner in the field of Machine Learning.
@@ -23,7 +23,7 @@
 
 ## Interests
 - 👀 I’m interested in simplifying and improving my daily life through automation and leveraging data to gain valuable insights.
-- 📚 I have a deep passion for reading books. You'll often find me engrossed in a good novel or exploring new topics through non-fiction works.
+- 📚 I have a deep passion for Psychology and reading books (not necessarily mutually exclusive). You'll often find me engrossed in a good novel or exploring new topics through non-fiction works.
 - 🎮 I'm also an avid video game and tabletop game enthusiast. 
   - 🎯 I proudly represent my school as a varsity player in esports, I'm a part of Norquest esport for Valorant
   - 📢 Feel free to connect with me if you share similar interests in books, gaming, or want to discuss esports and gaming-related projects.
