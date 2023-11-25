@@ -6,15 +6,19 @@
 - 🎓 I'm currently a student, working towards my Machine Learning Analyst Diploma.
 - 🌱 I’m currently focused on learning and improving my knowledge in the following areas:
   - Building and fine-tuning ML models
-  - Transitioning from Google Colab to an IDE and Github for more control and flexibility in my projects.
+  - ~~Transitioning from Google Colab to an IDE and Github for more control and flexibility in my projects.~~ transition completed
  
   ## Tech Stack
 - 🖥️ I have experience with the following technologies and languages:
-  - Python, R and SPSS. 
-  - Machine Learning libraries such as numpy, pandas, scipy and scikit-learn
-  - Data visualization tools like Matplotlib, Seaborn, Ggplot2, Plotly and Lattice
-  - Git and GitHub for version control (beginner)
-  - Survey collection software such as Qualtrics, Google Forms, SurveyMonkey, Snap, Voxco, Lucid and Cint.
+  - Python, R and SPSS.
+  - IDEs: PyCharm and VSCode for local development.
+  - MongoDB Atlas for NoSQL database management; SQL for querying.
+  - Working with APIs for data retrieval and interaction.
+  - Machine Learning libraries: numpy, pandas, scipy, scikit-learn, pyTorch.
+  - Data visualization: Tableau, Matplotlib, Seaborn, Ggplot2, Plotly, Lattice.
+  - Version control using Git and GitHub.
+  - Interactive web applications with Streamlit.
+  - Survey collection softwares:Qualtrics, Google Forms, SurveyMonkey, Snap, Voxco, Lucid and Cint.
 
 - 🌱 I’m continuously exploring and expanding my skills in these areas, and I'm open to discussing and collaborating on projects related to these technologies.
 
