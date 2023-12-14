@@ -1,49 +1,33 @@
 # Gretha's Machine Learning Repository
 
-👋 Hi, I’m Gretha, I have a background in Psychological Research and currently pursuing a Machine Learning Analyst Diploma. Welcome to my GitHub repository! Here, I share my journey into the world of machine learning and data analysis.
+👋 Hi, I’m Gretha! I'm passionate about machine learning, data analysis and psychology, currently pursuing a Machine Learning Analyst Diploma. Welcome to my GitHub repository where I share my journey.
 
 ## About Me
-- 🎓 I'm currently a student, working towards my Machine Learning Analyst Diploma.
-- 🌱 I’m currently focused on learning and improving my knowledge in the following areas:
-  - Building and fine-tuning ML models
-  - ~~Transitioning from Google Colab to an IDE and Github for more control and flexibility in my projects.~~ transition completed
- 
-  ## Tech Stack
-- 🖥️ I have experience with the following technologies and languages:
-  - Python, R and SPSS.
-  - IDEs: PyCharm and VSCode for local development.
-  - MongoDB Atlas for NoSQL database management; SQL for querying.
-  - Working with APIs for data retrieval and interaction.
-  - Machine Learning libraries: numpy, pandas, scipy, scikit-learn, pyTorch.
-  - Data visualization: Tableau, Matplotlib, Seaborn, Ggplot2, Plotly, Lattice.
-  - Version control using Git and GitHub.
-  - Interactive web applications with Streamlit.
-  - Survey collection softwares:Qualtrics, Google Forms, SurveyMonkey, Snap, Voxco, Lucid and Cint.
-
-- 🌱 I’m continuously exploring and expanding my skills in these areas, and I'm open to discussing and collaborating on projects related to these technologies.
-
+- 🎓 BSc Specialization in Psychology, Pursuing a Machine Learning Analyst Diploma.
+- 🌱 Focused on:
+  - Building and fine-tuning ML models.
+  - Proficient in Python, R, SPSS.
+  - Experience with: PyCharm, VSCode, MongoDB, SQL, APIs, various ML libraries, data visualization tools, Git/GitHub, Streamlit, survey softwares.
+- 🌱 Continuously expanding skills in these areas.
 
 ## Interests
-- 👀 I’m interested in simplifying and improving my daily life through automation and leveraging data to gain valuable insights.
-- 📚 I have a deep passion for Psychology and reading books. You'll often find me engrossed in a good novel or exploring new topics through non-fiction works.
-- 🎮 I'm also an avid video game and tabletop game enthusiast. 
-  - 🎯 I proudly represent my school as a varsity student player in esports, I'm part of Norquest esports for Valorant
-  - 📢 Feel free to connect with me if you share similar interests in books, gaming, or want to discuss esports and gaming-related projects.
-    
+- 👀 Interested in automating daily tasks and leveraging data for insights.
+- 📚 Passionate about Psychology and avid reader.
+- 🎮 Enthusiastic gamer, varsity player for NorQuest esports (Valorant).
+
 ## Collaboration
-- 💞️ I’m open to collaborating with fellow machine learning enthusiasts and data analysts on various projects. If you're interested in working together, don't hesitate to reach out!
+- 💞️ Open to collaborating on ML and data analysis projects.
 
 ## Contact Me
-- 📫 Feel free to connect with me or discuss potential collaborations:
+- 📫 Connect with me:
   - Email: gretha.pedro@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/gretha-pedro/ 
-  - GitHub: https://github.com/grethasaur
+  - LinkedIn: https://www.linkedin.com/in/gretha-pedro/
 
 ## Projects
-- Explore my repositories to find projects related to machine learning, data analysis, and automation.
+- Explore my repositories for ML, data analysis, and automation projects.
 
 ## Contributions
-- If you find any of my work interesting or have suggestions for improvements, please don't hesitate to open an issue or submit a pull request. Your feedback is highly appreciated.
+- Open to feedback and suggestions for improvement.
 
 ## Let's Learn Together
-I'm excited to share my journey in machine learning with you. Let's explore, learn, and create amazing projects together!
+Excited to share and learn in the world of machine learning!
