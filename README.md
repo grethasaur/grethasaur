@@ -6,7 +6,7 @@
 - 🎓 BSc Specialization in Psychology, Pursuing a Machine Learning Analyst Diploma.
 - 🌱 Focused on:
   - Building and fine-tuning ML models.
-  - Proficient in Python, R, SPSS.
+  - Python, R, SPSS.
   - Experience with: PyCharm, VSCode, MongoDB, SQL, APIs, various ML libraries, data visualization tools, Git/GitHub, Streamlit, survey softwares.
 - 🌱 Continuously expanding skills in these areas.
 
